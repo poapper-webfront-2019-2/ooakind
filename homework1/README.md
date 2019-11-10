@@ -3,7 +3,7 @@
  `index.html`, `style.css` 파일을 완성해 google.com 과 똑같은 웹페이지 만들기
 
 ## Initialization
-1. `poapper-webfront-2019-2 group` 내에 `{github 아이디}` 이름의 새로운 repository 만들기 ex) jelee999
+1. `poapper-webfront-2019-2` group 내에 `{github 아이디}` 이름의 새로운 repository 만들기 ex) jelee999
 2. 위에서 만든 repository를 내 컴퓨터에 `git clone`하기
 ```
 ex)
